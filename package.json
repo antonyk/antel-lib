@@ -1,6 +1,6 @@
 {
   "name": "antel-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Personal Library",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,7 @@
   },
   "author": "A.K.",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
